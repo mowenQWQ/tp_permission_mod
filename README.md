@@ -10,6 +10,7 @@ tp_permission_mod (传送指令权限模组)
 
 安装方法：
 将编译好的 .jar 文件放入 mods 文件夹即可。
+
 Installation information
 =======
 
